@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebContent/sql/BOARD.sql=euc-kr
+encoding//WebContent/sql/member.sql=euc-kr
+encoding//src/net/board/action/Action.java=euc-kr
+encoding//src/net/member/action/JoinProcessAction.java=euc-kr
+encoding//src/net/member/action/LoginAction.java=euc-kr
+encoding//src/net/member/db/Member.java=euc-kr
